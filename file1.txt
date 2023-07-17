@@ -1,4 +1,3 @@
-patryk teraz 3
 teraz piotrek 2
 
-asddsa
+zmiany na release branch 1235
